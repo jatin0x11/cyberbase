@@ -3,7 +3,7 @@
 A hacker-themed all-in-one productivity app built for cybersecurity students and enthusiasts.
 
 ## 🔗 Live Demo
-[jatin0x11.github.io](https://jatin0x11.github.io/cyberbase)
+[cyberbase](https://jatin0x11.github.io/cyberbase)
 
 ## ✨ Features
 - 📝 Notes & Checklists
